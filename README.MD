@@ -11,3 +11,5 @@ Should support 2 types of graphs - directed and undirected with 3 operations:
  Vertices should be of a user defined type. 
   
 Add traverse function that will take a user defined function and apply it on every vertex of the graph. 
+ 
+Make you graphs thread safe. 
